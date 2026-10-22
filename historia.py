@@ -11,5 +11,5 @@ print(f"Una mañana en {ciudad}, {nombre} despertó con la sensación de que ese
 
 # Continuación de la historia (Gian)
 print(f"Teniendo tan solo {edad}, se volveria el aventurero exitoso mas joven de la historia...")
-print(f"Luego lo atropello un camion y no paramedicos no lograron llegar al hospital a tiempo.")
+print(f"Luego lo atropello un camion y los paramedicos no lograron llegar al hospital a tiempo.")
 print(f"El fin.")
